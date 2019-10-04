@@ -1,1 +1,2 @@
 tmp text file
+line 2
