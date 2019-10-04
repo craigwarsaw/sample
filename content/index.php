@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>re:Invent ALM Bootcamp</title>
+    <title>re:Invent ALM Bootcamp foobar</title>
     <style type="text/css">
      body {
        font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;

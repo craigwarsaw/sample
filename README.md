@@ -43,6 +43,7 @@ and then choose **JUnit**. Next to **JUnit Pattern**, enter
 
 Click **Save**.
 
-# FOO
+## FOO
 
 bar
+foobar
